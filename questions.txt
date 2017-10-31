@@ -1,0 +1,11 @@
+0.  pneumonoultramicroscopicsilicovolcanoconiosis is a pneumoconiosis caused by inhalation of very fine silicate or quartz dust.
+1.  getrusage() returns resource usage measures for who, which can be one of the following: rusage_self, rusage_children, or rusage_thread.
+2.  16
+3.  TODO
+4.  TODO
+5.  TODO
+6.  TODO
+7.  I used a trie. it just made more sence to me an would take less time to run compaired to doing it as a has table.
+8.  0.16
+9.  change malloc to calloc, speed was a little better 0.13
+10. yes
